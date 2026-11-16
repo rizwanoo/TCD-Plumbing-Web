@@ -1,0 +1,6 @@
+{
+  "name": "TCD Plumbing — Pontypridd & South Wales",
+  "description": "Reliable, professional and affordable domestic plumbing repairs and maintenance across Pontypridd, Caerphilly, Cardiff and surrounding South Wales communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
